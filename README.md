@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">I like to work on unique projects.</h3>
+<h3 align="center">Loves to work with API's.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityash4rma&label=Profile%20views&color=0e75b6&style=flat" alt="adityash4rma" /> </p>
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Loves to work with API's.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityash4rma&label=Profile%20views&color=0e75b6&style=flat" alt="adityash4rma" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityash4rma&label=Profile%20views&color=0e75b6&style=flat" alt="adityash4rma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityash4rma" alt="adityash4rma" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityash4rma&theme=nord" alt="adityash4rma" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 

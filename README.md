@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/adityash4rma/adityash4rma/raw/main/header.gif" /></p>
+
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Loves to work with API's.</h3>
 

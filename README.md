@@ -24,6 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adityash4rma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="adityash4rma" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityash4rma&theme=prussian&show_icons=true&locale=en&layout=compact" alt="adityash4rma" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityash4rma&theme=prussian&show_icons=true&locale=en&layout=compact" alt="adityash4rma" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityash4rma&theme=prussian&show_icons=true&locale=en" alt="adityash4rma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityash4rma&theme=prussian&show_icons=true&locale=en" alt="adityash4rma" /></p>

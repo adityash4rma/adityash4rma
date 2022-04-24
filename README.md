@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/adityash4rma/adityash4rma/raw/main/header.gif" /></p>
 
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">Loves to work with API's.</h3>
+<h1 align="center">Hola 👋, I'm Aditya</h1>
+<h3 align="center">I love to work with API's and make telegram bots.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityash4rma&label=Profile%20views&color=0e75b6&style=flat" alt="adityash4rma" /> </p>
 

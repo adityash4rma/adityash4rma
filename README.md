@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/adityash4rma/adityash4rma/raw/main/header.gif" /></p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=30&color=FFFFFF&multiline=true&lines=Hola+%F0%9F%91%8B%2C+I'm+Aditya+Sharma"/>

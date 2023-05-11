@@ -10,7 +10,7 @@ class Human(parents):
     self.hobby = [
     'Programming' , 
     'Football',
-    'Reading Nursery Rhymes... just kidding hahaha'
+    'Reading Nursery Rhymes... yes I'm serious'
     ]
     self.social.telegram_username = "adityash4rma"
 ```

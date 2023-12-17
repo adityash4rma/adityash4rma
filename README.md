@@ -71,17 +71,7 @@ class Human(parents):
 
 <br clear="both">
 
-###
 
-<h2 align="left">Recently Played Music:</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=51c4syia06l19k93fk8be9b6x&count=1" alt="Spotify recently played"  />
-</div>
 
 ###
 

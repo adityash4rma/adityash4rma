@@ -12,7 +12,7 @@ class Human(parents):
     "Football",
     "Reading Nursery Rhymes... yes I'm serious"
     ]
-    self.social.telegram_username = "adityash4rma"
+    self.social.telegram_username = "adishxrma"
 ```
 
 ###

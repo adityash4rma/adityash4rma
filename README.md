@@ -41,14 +41,10 @@ class Human(parents):
 <br clear="both">
 
 
-
 ###
 
-<br clear="both">
 
-<h3 align="left">Profile Views:</h3>
-
-###
+<h6 align="center">Profile Views:</h6>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/adityash4rma/count.svg?"  />

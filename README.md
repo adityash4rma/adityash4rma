@@ -8,11 +8,10 @@ class Human(parents):
     self.name = "Aditya Sharma"
     self.favorite_language = "Python"
     self.hobby = [
-    "Programming" , 
-    "Football",
-    "Reading Nursery Rhymes... yes I'm serious"
+        "Programming" , 
+        "Football",
+        "Reading Nursery Rhymes... yes I'm serious"
     ]
-    self.social.telegram_username = "adishxrma"
 ```
 
 

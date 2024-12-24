@@ -21,7 +21,10 @@ class Human(parents):
 <br>
 <div align="center">
   <a href="https://t.me/adishxrma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@adishxrma&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram"  />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" height="30" alt="telegram"  />
+  </a>
+    <a href="https://x.com/adityash4rma" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" height="30" alt="x"  />
   </a>
 </div>
 

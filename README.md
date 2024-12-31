@@ -37,8 +37,8 @@ class Human(parents):
 ###
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=adityash4rma&cc=000&tc=fff&ic=A020F0&bc=000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash4rma&theme=high_contrast&show_icons=true&hide_border=true&layout=compact&title_color=fff&bg_color=000&text_color=fff" height="150" alt="languages graph"  />
+  <img src="https://github-stats-alpha.vercel.app/api?username=adityash4rma&cc=000&tc=fff&ic=A020F0&bc=000&theme=onedark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityash4rma&theme=onedark&show_icons=true&hide_border=true&layout=compact&title_color=fff&bg_color=000&text_color=fff" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">

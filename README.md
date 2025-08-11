@@ -1,17 +1,18 @@
-<h1 align="center">Namaste! I'm Aditya</h1>
-
 ###
 
-```python
-class Human(parents):
-  def __init__(self):
-    self.name = "Aditya Sharma"
-    self.favorite_language = "Python"
-    self.hobby = [
-        "Open Sourcing" , 
-        "Playing Football",
-        "Reading Nursery Rhymes... yes I'm serious"
-    ]
+```c
+#include <hooman.h>
+
+int identity(void)
+{
+    char name[] = "Aditya";
+    char username[] = "@adityash4rma";
+    char hobby[] = "open-sourcing";
+    char loves_to[] = "sing";
+
+    return 200;
+}
+
 ```
 
 <br clear="both">

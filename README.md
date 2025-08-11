@@ -8,18 +8,38 @@ class Human(parents):
     self.name = "Aditya Sharma"
     self.favorite_language = "Python"
     self.hobby = [
-        "Programming" , 
-        "Football",
+        "Open Sourcing" , 
+        "Playing Football",
         "Reading Nursery Rhymes... yes I'm serious"
     ]
 ```
 
-
+<br clear="both">
 
 ###
 
+<h2 align="left">Languages and Tools:</h2>
 <br>
-<div align="center">
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" />
+</div>
+<br clear="both">
+
+###
+
+<h2 align="left">Contact:</h2>
+<br>
+<div> 
   <a href="https://t.me/adishxrma" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" height="30" alt="telegram"  />
   </a>
@@ -47,10 +67,3 @@ class Human(parents):
 ###
 
 
-<h6 align="center">Profile Views:</h6>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adityash4rma/count.svg?"  />
-</div>
-
-###

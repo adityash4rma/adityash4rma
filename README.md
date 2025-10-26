@@ -67,4 +67,13 @@ int identity(void)
 
 ###
 
+<h2 align="left">Holopin Board:</h2>
+
+###
+
+<div align="center">
+
+[![An image of @adityash4rma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityash4rma)](https://holopin.io/@adityash4rma)
+    
+</div>
 

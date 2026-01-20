@@ -33,6 +33,10 @@ int identity(void)
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" />
+  
+ 
 </div>
 <br clear="both">
 
@@ -41,12 +45,15 @@ int identity(void)
 <h2 align="left">Contact:</h2>
 <br>
 <div> 
-  <a href="https://t.me/adishxrma" target="_blank">
+<a href="https://t.me/adishxrma" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" height="30" alt="telegram"  />
-  </a>
-    <a href="https://x.com/aditya_sh4rma" target="_blank">
+</a>
+<a href="https://x.com/aditya_sh4rma" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" height="30" alt="x"  />
-  </a>
+</a>
+<a href="https://buymeacoffee.com/adityash4rma" target="_blank">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg" />
+</a>
 </div>
 
 <br clear="both">

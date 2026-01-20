@@ -77,3 +77,10 @@ int identity(void)
     
 </div>
 
+<br clear="both">
+
+             _.-;;-._
+      '-..-'|   ||   |
+      '-..-'|_.-;;-._|
+      '-..-'|   ||   |  Code never lies; comments sometimes do :P
+      '-..-'|_.-''-._|

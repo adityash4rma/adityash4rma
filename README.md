@@ -93,11 +93,4 @@ int identity(void)
       '-..-'|_.-''-._|
 
 
-<div align="right">
-  Keep developing <br>
-  Keep open-sourcing
-</div>
-<div>
-  <img src="https://cdn.discordapp.com/emojis/1424563376528425030.webp?size=40" width="40" style="vertical-align:middle" /> <br>
-  <a>adios!</a>
-</div>
+

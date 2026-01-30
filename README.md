@@ -83,14 +83,3 @@ int identity(void)
 [![An image of @adityash4rma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityash4rma)](https://holopin.io/@adityash4rma)
     
 </div>
-
-<br clear="both">
-
-             _.-;;-._
-      '-..-'|   ||   |
-      '-..-'|_.-;;-._|
-      '-..-'|   ||   |  Code never lies; comments sometimes do :P
-      '-..-'|_.-''-._|
-
-
-

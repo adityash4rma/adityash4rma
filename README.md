@@ -28,6 +28,7 @@ int identity(void)
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg" />
@@ -35,6 +36,7 @@ int identity(void)
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" />
+  
   
  
 </div>

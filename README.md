@@ -46,17 +46,10 @@ int identity(void)
 
 <h2 align="left">Contact:</h2>
 <br>
-<div> 
-<a href="https://t.me/adishxrma" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" height="30" alt="telegram"  />
-</a>
-<a href="https://x.com/aditya_sh4rma" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" height="30" alt="x"  />
-</a>
-<a href="https://buymeacoffee.com/adityash4rma" target="_blank">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg" />
-</a>
-</div>
+
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/adishxrma)
+[![Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg)](https://x.com/aditya_sh4rma)
+[![Buy Me a Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://buymeacoffee.com/adityash4rma)
 
 <br clear="both">
 

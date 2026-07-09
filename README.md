@@ -60,8 +60,7 @@ int identity(void)
 ###
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=adityash4rma&cc=000&tc=fff&ic=A020F0&bc=000&theme=onedark" height="150" alt="stats graph"  />
-  
+  <img src="https://github-stats-extended.vercel.app/api?username=adityash4rma&rank_icon=github&custom_title=Aditya's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="stats graph"  />
 </div>
 
 <br clear="both">
